@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Dev2sWeb/OnTeach.git/static/css/main.dd319042.chunk.css",
-    "main.js": "/Dev2sWeb/OnTeach.git/static/js/main.ac430235.chunk.js",
-    "main.js.map": "/Dev2sWeb/OnTeach.git/static/js/main.ac430235.chunk.js.map",
-    "runtime-main.js": "/Dev2sWeb/OnTeach.git/static/js/runtime-main.c93c2452.js",
-    "runtime-main.js.map": "/Dev2sWeb/OnTeach.git/static/js/runtime-main.c93c2452.js.map",
-    "static/js/2.8f38cfe9.chunk.js": "/Dev2sWeb/OnTeach.git/static/js/2.8f38cfe9.chunk.js",
-    "static/js/2.8f38cfe9.chunk.js.map": "/Dev2sWeb/OnTeach.git/static/js/2.8f38cfe9.chunk.js.map",
-    "static/js/3.cd2265f2.chunk.js": "/Dev2sWeb/OnTeach.git/static/js/3.cd2265f2.chunk.js",
-    "static/js/3.cd2265f2.chunk.js.map": "/Dev2sWeb/OnTeach.git/static/js/3.cd2265f2.chunk.js.map",
-    "index.html": "/Dev2sWeb/OnTeach.git/index.html",
-    "static/css/main.dd319042.chunk.css.map": "/Dev2sWeb/OnTeach.git/static/css/main.dd319042.chunk.css.map",
-    "static/js/2.8f38cfe9.chunk.js.LICENSE.txt": "/Dev2sWeb/OnTeach.git/static/js/2.8f38cfe9.chunk.js.LICENSE.txt"
+    "main.css": "/OnTeach/static/css/main.dd319042.chunk.css",
+    "main.js": "/OnTeach/static/js/main.ac430235.chunk.js",
+    "main.js.map": "/OnTeach/static/js/main.ac430235.chunk.js.map",
+    "runtime-main.js": "/OnTeach/static/js/runtime-main.e3a83ca3.js",
+    "runtime-main.js.map": "/OnTeach/static/js/runtime-main.e3a83ca3.js.map",
+    "static/js/2.8f38cfe9.chunk.js": "/OnTeach/static/js/2.8f38cfe9.chunk.js",
+    "static/js/2.8f38cfe9.chunk.js.map": "/OnTeach/static/js/2.8f38cfe9.chunk.js.map",
+    "static/js/3.cd2265f2.chunk.js": "/OnTeach/static/js/3.cd2265f2.chunk.js",
+    "static/js/3.cd2265f2.chunk.js.map": "/OnTeach/static/js/3.cd2265f2.chunk.js.map",
+    "index.html": "/OnTeach/index.html",
+    "static/css/main.dd319042.chunk.css.map": "/OnTeach/static/css/main.dd319042.chunk.css.map",
+    "static/js/2.8f38cfe9.chunk.js.LICENSE.txt": "/OnTeach/static/js/2.8f38cfe9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c93c2452.js",
+    "static/js/runtime-main.e3a83ca3.js",
     "static/js/2.8f38cfe9.chunk.js",
     "static/css/main.dd319042.chunk.css",
     "static/js/main.ac430235.chunk.js"
