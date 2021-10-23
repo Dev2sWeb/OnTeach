@@ -1,0 +1,23 @@
+.active:hover{
+    font-size: larger;
+    /* letter-spacing: 5px; */
+}
+.navbar-nav
+{
+    margin-left: auto;
+}
+.menu_active{
+    font-weight: bold;
+    border-bottom: 1px solid black;
+}
+.active:active{
+    font-weight: bolder;
+    border-bottom: 1px solid black;
+}
+.btn{
+    border-radius: 20px;
+}
+#header h1{
+    font-weight: 700;
+
+}
