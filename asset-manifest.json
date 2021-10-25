@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/OnTeach/static/css/main.dd319042.chunk.css",
-    "main.js": "/OnTeach/static/js/main.ac430235.chunk.js",
-    "main.js.map": "/OnTeach/static/js/main.ac430235.chunk.js.map",
+    "main.css": "/OnTeach/static/css/main.2ee617da.chunk.css",
+    "main.js": "/OnTeach/static/js/main.bf22df8b.chunk.js",
+    "main.js.map": "/OnTeach/static/js/main.bf22df8b.chunk.js.map",
     "runtime-main.js": "/OnTeach/static/js/runtime-main.e3a83ca3.js",
     "runtime-main.js.map": "/OnTeach/static/js/runtime-main.e3a83ca3.js.map",
-    "static/js/2.8f38cfe9.chunk.js": "/OnTeach/static/js/2.8f38cfe9.chunk.js",
-    "static/js/2.8f38cfe9.chunk.js.map": "/OnTeach/static/js/2.8f38cfe9.chunk.js.map",
+    "static/js/2.a4d7111d.chunk.js": "/OnTeach/static/js/2.a4d7111d.chunk.js",
+    "static/js/2.a4d7111d.chunk.js.map": "/OnTeach/static/js/2.a4d7111d.chunk.js.map",
     "static/js/3.cd2265f2.chunk.js": "/OnTeach/static/js/3.cd2265f2.chunk.js",
     "static/js/3.cd2265f2.chunk.js.map": "/OnTeach/static/js/3.cd2265f2.chunk.js.map",
     "index.html": "/OnTeach/index.html",
-    "static/css/main.dd319042.chunk.css.map": "/OnTeach/static/css/main.dd319042.chunk.css.map",
-    "static/js/2.8f38cfe9.chunk.js.LICENSE.txt": "/OnTeach/static/js/2.8f38cfe9.chunk.js.LICENSE.txt"
+    "static/css/main.2ee617da.chunk.css.map": "/OnTeach/static/css/main.2ee617da.chunk.css.map",
+    "static/js/2.a4d7111d.chunk.js.LICENSE.txt": "/OnTeach/static/js/2.a4d7111d.chunk.js.LICENSE.txt",
+    "static/media/img1.bd783639.png": "/OnTeach/static/media/img1.bd783639.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e3a83ca3.js",
-    "static/js/2.8f38cfe9.chunk.js",
-    "static/css/main.dd319042.chunk.css",
-    "static/js/main.ac430235.chunk.js"
+    "static/js/2.a4d7111d.chunk.js",
+    "static/css/main.2ee617da.chunk.css",
+    "static/js/main.bf22df8b.chunk.js"
   ]
 }
